@@ -76,4 +76,4 @@ Your app will be live in a few minutes 🎉
 
 ---
 
-## 🧑‍💻 Made with 💡 by [Your Name]
+## 🧑‍💻 Made with 💡 by [L.Deepak Reddy]
